@@ -130,7 +130,7 @@ export function Contact() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Phone className="h-5 w-5 text-primary" />
-                    <span className="text-foreground">+234 8145908744</span>
+                    <span className="text-foreground">+234 8145908744 or +234 7011226939</span>
                   </div>
                   <div className="flex items-center gap-3">
                     <MessageSquare className="h-5 w-5 text-primary" />
